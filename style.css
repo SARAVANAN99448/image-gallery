@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    border-bottom: black solid 1px;
+    padding: 10px;
+
+}
+
+.sectin-s2 {
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    width: 1000px;
+    height: 300px;
+    margin-top: 40px;
+}
+
+.sectin-s2 img {
+
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+
+}
